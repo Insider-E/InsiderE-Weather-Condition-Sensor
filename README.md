@@ -41,6 +41,14 @@ Este repositório contém o código-fonte e a documentação para um projeto de 
 1. Conecte os sensores aos pinos correspondentes no Arduino conforme indicado no arquivo `circuit_design.png`.
 2. Carregue o código e abra o monitor serial no Arduino IDE para visualizar os dados em tempo real.
 
+## Integrantes:
+
+- David Murillo de Oliveira Soares (RM 559078)
+- Davi dos Reis Garcia (RM 556741)
+- Yasmin Gonçalves Coelho (RM 559147)
+- Yasmin Naomi Minemoto (RM 559154)
+
+
 ## Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues para sugestões de melhorias ou para enviar pull requests.
