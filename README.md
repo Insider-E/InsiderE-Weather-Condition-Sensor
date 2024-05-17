@@ -32,6 +32,7 @@ Este repositório contém o código-fonte e a documentação para um projeto de 
 2. Instale as bibliotecas necessárias no Arduino IDE:
    - Adafruit Sensor
    - DHT sensor library
+   - Liquid Crystal
 
 3. Carregue o código no Arduino Uno através do Arduino IDE.
 
