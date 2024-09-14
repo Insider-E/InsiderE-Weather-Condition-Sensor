@@ -1,6 +1,6 @@
 # Formula E Weather Condition Sensor
 
-<img src="https://github.com/Insider-E/InsiderE-Weather-Condition-Sensor/blob/main/circuit_design.png">
+<img src="https://github.com/Insider-E/InsiderE-Weather-Condition-Sensor/blob/main/Sprint1/circuit_design.png">
 
 Este repositório contém o código-fonte e a documentação para um projeto de sensor de condições climáticas desenvolvido para a Fórmula E. Este sensor foi projetado para monitorar e registrar dados ambientais cruciais que podem influenciar o desempenho dos carros durante as corridas. Utilizando a plataforma Arduino, o sensor coleta informações em tempo real sobre temperatura, umidade, pressão atmosférica e luminosidade, fornecendo dados precisos e confiáveis para a equipe técnica.
 
