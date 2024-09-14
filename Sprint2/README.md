@@ -1,6 +1,6 @@
 # Formula E Weather Condition Sensor
 
-<img src="https://github.com/Insider-E/InsiderE-Weather-Condition-Sensor/blob/main/circuit_design.png">
+<img src="https://github.com/Insider-E/InsiderE-Weather-Condition-Sensor/blob/main/Sprint2/circuit_design.png">
 
 # Projeto IoT para Formula E - Monitoramento Ambiental
 
